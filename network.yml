@@ -28,12 +28,12 @@ Parameters:
   PrivateSubnet1CIDR:
     Description: First private subnet ip range
     Type: String
-    Default: 10.0.3.0/24
+    Default: 10.0.2.0/24
 
   PrivateSubnet2CIDR:
     Description: Second private subnet ip range
     Type: String
-    Default: 10.0.4.0/24
+    Default: 10.0.3.0/24
 
 # =========================================================================
 
