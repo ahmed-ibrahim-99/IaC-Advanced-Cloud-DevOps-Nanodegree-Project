@@ -1,4 +1,4 @@
-# IaC Project using CloudFormation (high availability web app)
+# IaC Project using CloudFormation (deploy web app with high availability)
 > This is the IaC project for the [Cloud DevOps Engineer Nano-degree on Udacity](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991).
 ---
 ### Problem Summary
